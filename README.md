@@ -1,3 +1,5 @@
+# Ru
+- [Click switch to Russian documentation](https://github.com/albaniaProducties/offucical_docs/blob/main/ru/ru.md)
 # Documentation
 - The library is made on the BASIS of others, there were no carbon copies.
 - Not to say that this is the "best" library for those who want to write bots without bothering with the discord.js methods.
